@@ -7,7 +7,7 @@ Um Projeto feito exclusivamente para a pratica de leitura de API's em `React` ut
 
 ## 📁 Estrutura do Projeto
 
-```
+
 
 pokedex/
 ├── public/
@@ -23,7 +23,7 @@ pokedex/
 ├── package.json
 └── README.md
 
-````
+
 
 ---
 
@@ -48,23 +48,22 @@ pokedex/
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/PedroOliveira-N/pokedex.git
-````
+
 
 2. **Acesse o diretório do projeto**
 
    ```bash
    cd pokedex
-   ```
+
 3. **Instale dependências**
 
    ```bash
    npm install
-   ```
+
 4. **Inicie o ambiente de desenvolvimento**
 
    ```bash
    npm start
-   ```
 
 ---
 
