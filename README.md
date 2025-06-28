@@ -7,7 +7,7 @@ Um Projeto feito exclusivamente para a pratica de leitura de API's em `React` ut
 ## 📁 Estrutura do Projeto
 
 
-``
+```
 pokedex/
 ├── public/
 │   └── index.html
@@ -21,7 +21,7 @@ pokedex/
 │   └── App.css
 ├── package.json
 └── README.md
-``
+```
 
 ---
 
