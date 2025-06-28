@@ -1,0 +1,19 @@
+.pokecard {
+  border: 3px solid #060606;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 8px;
+  display: grid;
+  grid-template-rows: 2fr;
+  justify-content: center;
+}
+
+.pokecard h2 {
+  text-align: ;
+}
+
+.pokecard img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
