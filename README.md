@@ -1,4 +1,3 @@
-```
 # 🐞 Pokedex
 
 Um Projeto feito exclusivamente para a pratica de leitura de API's em `React` utilizando `Axios` e `Hooks`.
@@ -8,7 +7,7 @@ Um Projeto feito exclusivamente para a pratica de leitura de API's em `React` ut
 ## 📁 Estrutura do Projeto
 
 
-
+```
 pokedex/
 ├── public/
 │   └── index.html
@@ -22,8 +21,7 @@ pokedex/
 │   └── App.css
 ├── package.json
 └── README.md
-
-
+```
 
 ---
 
@@ -36,9 +34,7 @@ pokedex/
 
 ## ✨ Funcionalidades
 
-- Busca por nome ou número do Pokémon.
-- Lista paginada ou contínua dos 150 primeiros Pokémon.
-- Cartões com detalhes: nome, imagem, tipos, estatísticas.
+- Lista contínua dos 24 primeiros Pokémon.
 - Layout responsivo para mobile e desktop.
 
 ---
